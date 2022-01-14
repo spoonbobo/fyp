@@ -1,0 +1,5 @@
+{
+    "movement_bet_tile": {
+        "length_km": "distance between starting lon/lat and ending lon/lat"
+        }
+}
